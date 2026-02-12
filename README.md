@@ -1,27 +1,57 @@
-**Shark Attack Analysis:** Strategic Product Expansion
+. Shark-Resistant Gear Feasibility Analysis
 
-🦈 **Project Overview**
-We are an international protective water sports gear manufacturer looking to diversify our product line. This project analyzes the Global Shark Attack File (GSAF) to identify market opportunities for "Shark-Resistant" equipment. By understanding the demographics, activities, and injury patterns of shark encounters, we aim to develop data-driven safety solutions and tailored marketing campaigns.
+**Overview**
 
-🎯 ***Business Cases & Hypotheses**
-Our primary goal is to determine the feasibility of expanding into shark-resistant gear. We are testing several hypotheses:
+This project analyzes unprovoked shark attack data to assess the feasibility of expanding into shark-resistant protective gear. The analysis supports business decisions related to product design, customer targeting, and marketing strategy.
 
-Gender-Specific Protection: Does the high frequency of male-related incidents justify a male-centric product line, or is there an untapped market for female safety gear?
+**Business Objective**
 
-Activity-Based Gear: Beyond surfing, which activities (swimming, diving, wading) require specialized protective equipment?
+To determine whether data supports investment in shark-resistant gear by analyzing:
 
-Anatomical Focus: Can we design gear for specific body parts (e.g., ankle repellents or bite-resistant sleeves) based on common injury patterns?
+* Gender distribution of incidents
 
-Marketing Insight: By analyzing "Unprovoked" vs. "Provoked" attacks, we can create awareness campaigns that promote safety without fear-mongering.
+* Sport activities with highest exposure
 
+* Common injury patterns and affected body parts
 
-💡 **Potential Product Pipeline**
-Based on our findings, we intend to explore the development of:
+**Hypotheses**
 
-Bite-Resistant Wetsuits: High-durability fabrics designed to minimize tissue damage.
+**1.** Male participants experience more sport-related shark attacks
 
-Low-Contrast Gear: Wetsuits and boards designed with colors/patterns that are less visible to sharks (based on GSAF visual theories).
+**2.** Activities beyond surfing require protective gear
 
-Shark Repellent Ankle Gear: Wearable deterrents for swimmers and waders.
+**3.** Injuries are concentrated in specific body parts
 
-Specialized Boards: Surfing and paddle-boarding equipment with integrated safety features.
+**Dataset**
+
+Source: Global Shark Attack File (GSAF)
+
+Focus: Unprovoked, sport-related incidents
+
+**Tools Used**
+
+* Python
+
+* Pandas
+
+* Matplotlib
+
+* Jupyter Notebook / Google Colab
+
+**Key Insights**
+
+* Majority of incidents involve male participants
+
+* Surfing, swimming, and wading dominate exposure
+
+* Lower limbs are the most commonly injured body parts
+
+**Business Recommendations**
+
+**1.** Launch male-focused protective gear initially
+
+**2.** Develop sport-specific product lines
+
+**3.** Prioritize lower-limb protection
+
+**4.** Use data-driven, non-fear-based marketing
