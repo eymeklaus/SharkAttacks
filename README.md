@@ -16,11 +16,14 @@ To determine whether data supports investment in shark-resistant gear by analyzi
 
 **Hypotheses**
 
-**1.** Male participants experience more sport-related shark attacks
+**1.** Most Shark attacks are unprovoke
 
-**2.** Activities beyond surfing require protective gear
+**2.**Male participants experience more sport-related shark attacks
 
-**3.** Injuries are concentrated in specific body parts
+**3.** Activities beyond surfing require protective gear
+
+**4.** Injuries are concentrated in specific body parts
+
 
 **Dataset**
 
@@ -55,3 +58,7 @@ Focus: Unprovoked, sport-related incidents
 **3.** Prioritize lower-limb protection
 
 **4.** Use data-driven, non-fear-based marketing
+
+You can find our presentation in this link:
+https://docs.google.com/presentation/d/1eTJTYzwIYBNvlgiKl4ZveXupgZmBjq7tBRLSwKBWei8/edit?usp=sharing
+
