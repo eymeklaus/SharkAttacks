@@ -1,4 +1,4 @@
-. Shark-Resistant Gear Feasibility Analysis
+**Shark-Resistant Gear Feasibility Analysis**
 
 **Overview**
 
